@@ -1,2 +1,2 @@
-# Heading-Up-North
+# Headed-Up-North
 Website for Andy
